@@ -2,21 +2,7 @@
 .DS_Store
 
 # Python virtual environment
-venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.pyz
-*.pywz
+.pytest_cache/
 
 # Editor-specific files
-.idea/
 .vscode/
-*.swp
-
-# Django-specific files
-*.log
-*.sqlite3
-media/
-staticfiles/
